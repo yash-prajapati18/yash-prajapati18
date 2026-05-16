@@ -31,7 +31,7 @@ Random Forest and XGBoost on 10 years of daily market data.
 - Key finding: volatility clustering is the dominant predictive signal
 - Per-ticker analysis revealed SPY (R²=9.3%) vs TSLA (R²=-0.9%)
 
-[View Repository →](https://github.com/yourusername/stock-volatility-forecasting)
+[View Repository →](https://github.com/yash-prajapati18/stock-volatility-forecasting)
 
 ---
 
